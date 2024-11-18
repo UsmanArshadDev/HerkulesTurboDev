@@ -1,0 +1,71 @@
+<?php
+$login_customer = $block->getLayout()->createBlock('Magento\Customer\Block\Account\Customer');
+$welcomeMessage = $block->getWelcome();
+?>
+	<div class="header-container header-style-10">
+		<div class="header-top clearfix">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7  action-left">
+						<div class="top-left-content  clearfix">
+							<div class="d-lg-block d-none">
+								<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header-left-v11')->toHtml(); ?>
+							</div>
+							<?php echo $block->getChildHtml('language-header'); ?>
+							<?php echo $block->getChildHtml('currency-header'); ?>
+
+						</div>
+					</div>
+					<div class="col-md-5 d-md-block d-none action-right">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header-right-v11')->toHtml(); ?>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-bottom ontop-element">
+			<div class="container">
+				<div class="row no-gutters align-items-center">
+					<div class="col-xl-7 col-lg-4">
+					<div class="left-container">
+					<div class="logo">
+                          <?php echo $block->getChildHtml('logo_theme'); ?>
+                    </div>
+					<div class="header-navigation">
+						<div class="desktop-navigation">
+							<div class="row align-items-center">
+								<div class="col-lg-1">
+									<div class="vertical-megamenu">
+										<?php
+                                    if ($_config->getGeneral('menu_style') == 'megamenu') {
+                                        echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('vertical-megamenu')->toHtml();
+                                    } else {
+                                        echo $block->getChildHtml('navigation-header');
+                                    } ?>
+									</div>
+								</div>
+								<div class="col-lg-11">
+									<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('horizontal-megamenu')->toHtml(); ?>
+								</div>
+							</div>
+						</div>
+						<div class="navigation-mobile-container">
+							<?php echo $block->getChildHtml('navigation.mobile'); ?>
+						</div>
+					</div>
+					</div>
+					</div>
+					<div class="col-xl-5 col-lg-8">
+                      <div class="right-container">
+                          <?php echo $block->getChildHtml('search-header-pro'); ?>
+                              <div class="customer-action">
+                                  <?php echo $block->getChildHtml('header.links'); ?>
+                              </div>
+                              <?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('returns-orders')->toHtml(); ?>
+                                  <?php echo $block->getChildHtml('cart-header'); ?>
+                      </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('policy_shop_v11')->toHtml(); ?>

@@ -1,0 +1,3822 @@
+<?xml version="1.0"?>
+<root>
+  <pages>
+    <cms_item>
+      <title>404 Not Found</title>
+      <identifier>no-route</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="wrapper_404page">
+<div class="row">
+<div class="col-lg-7 col-md-7">
+<div class="content-404page">
+<p class="top-text">Don't worry you will be back on track in no time!</p>
+<p class="img-404"><img src="{{media url="wysiwyg/404image/404-img-text.png"}}" alt="" /></p>
+<p class="bottom-text">Page doesn't exist or some other error occured. Go to our home page or go back previous page</p>
+<div class="button-404"><a class="btn-404 prev-page-btn" title="PREVIOUS PAGE" onclick="goBack()" href="javascript:void(0);">PREVIOUS PAGE</a> <a class="btn-404 back2home" title="BACK TO HOMEPAGE" href="{{store url=""}}">BACK TO HOMEPAGE</a></div>
+</div>
+</div>
+<div class="col-lg-5 col-md-5">
+<div class="img-right-404"><img src="{{media url="wysiwyg/404image/404-image.png"}}" alt="" /></div>
+</div>
+</div>
+<div style="clear: both; height: 0px;">&nbsp;</div>
+<script type="text/javascript">
+	function goBack() {
+		window.history.back()
+	}
+</script>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Enable Cookies</title>
+      <identifier>enable-cookies</identifier>
+      <content_heading>What are Cookies?</content_heading>
+      <content><![CDATA[<div class="enable-cookies cms-content">
+<p>"Cookies" are little pieces of data we send when you visit our store. Cookies help us get to know you better and personalize your experience. Plus they help protect you and other shoppers from fraud.</p>
+<p style="margin-bottom: 20px;">Set your browser to accept cookies so you can buy items, save items, and receive customized recommendations. Here’s how:</p>
+<ul>
+<li><a href="https://support.google.com/accounts/answer/61416?hl=en" target="_blank">Google Chrome</a></li>
+<li><a href="http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies" target="_blank">Internet Explorer</a></li>
+<li><a href="http://support.apple.com/kb/PH19214" target="_blank">Safari</a></li>
+<li><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">Mozilla/Firefox</a></li>
+</ul>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Privacy Policy</title>
+      <identifier>privacy-policy-cookie-restriction-mode</identifier>
+      <content_heading>Privacy Policy</content_heading>
+      <content><![CDATA[<div class="privacy-policy cms-content">
+    <div class="message info">
+        <span>
+            Please replace this text with you Privacy Policy.
+            Please add any additional cookies your website uses below (e.g. Google Analytics).
+        </span>
+    </div>
+    <p>
+        This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that
+        you give the Store while using this website. The Store is committed to ensuring that your privacy is protected.
+        Should we ask you to provide certain information by which you can be identified when using this website, then
+        you can be assured that it will only be used in accordance with this privacy statement. The Store may change
+        this policy from time to time by updating this page. You should check this page from time to time to ensure
+        that you are happy with any changes.
+    </p>
+    <h2>What we collect</h2>
+    <p>We may collect the following information:</p>
+    <ul>
+        <li>name</li>
+        <li>contact information including email address</li>
+        <li>demographic information such as postcode, preferences and interests</li>
+        <li>other information relevant to customer surveys and/or offers</li>
+    </ul>
+    <p>
+        For the exhaustive list of cookies we collect see the <a href="#list">List of cookies we collect</a> section.
+    </p>
+    <h2>What we do with the information we gather</h2>
+    <p>
+        We require this information to understand your needs and provide you with a better service,
+        and in particular for the following reasons:
+    </p>
+    <ul>
+        <li>Internal record keeping.</li>
+        <li>We may use the information to improve our products and services.</li>
+        <li>
+            We may periodically send promotional emails about new products, special offers or other information which we
+            think you may find interesting using the email address which you have provided.
+        </li>
+        <li>
+            From time to time, we may also use your information to contact you for market research purposes.
+            We may contact you by email, phone, fax or mail. We may use the information to customise the website
+            according to your interests.
+        </li>
+    </ul>
+    <h2>Security</h2>
+    <p>
+        We are committed to ensuring that your information is secure. In order to prevent unauthorised access or
+        disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and
+        secure the information we collect online.
+    </p>
+    <h2>How we use cookies</h2>
+    <p>
+        A cookie is a small file which asks permission to be placed on your computer's hard drive.
+        Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit
+        a particular site. Cookies allow web applications to respond to you as an individual. The web application
+        can tailor its operations to your needs, likes and dislikes by gathering and remembering information about
+        your preferences.
+    </p>
+    <p>
+        We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page
+        traffic and improve our website in order to tailor it to customer needs. We only use this information for
+        statistical analysis purposes and then the data is removed from the system.
+    </p>
+    <p>
+        Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find
+        useful and which you do not. A cookie in no way gives us access to your computer or any information about you,
+        other than the data you choose to share with us. You can choose to accept or decline cookies.
+        Most web browsers automatically accept cookies, but you can usually modify your browser setting
+        to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+    </p>
+    <h2>Links to other websites</h2>
+    <p>
+        Our website may contain links to other websites of interest. However, once you have used these links
+        to leave our site, you should note that we do not have any control over that other website.
+        Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst
+        visiting such sites and such sites are not governed by this privacy statement.
+        You should exercise caution and look at the privacy statement applicable to the website in question.
+    </p>
+    <h2>Controlling your personal information</h2>
+    <p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+    <ul>
+        <li>
+            whenever you are asked to fill in a form on the website, look for the box that you can click to indicate
+            that you do not want the information to be used by anybody for direct marketing purposes
+        </li>
+        <li>
+            if you have previously agreed to us using your personal information for direct marketing purposes,
+            you may change your mind at any time by letting us know using our Contact Us information
+        </li>
+    </ul>
+    <p>
+        We will not sell, distribute or lease your personal information to third parties unless we have your permission
+        or are required by law to do so. We may use your personal information to send you promotional information
+        about third parties which we think you may find interesting if you tell us that you wish this to happen.
+    </p>
+    <p>
+        You may request details of personal information which we hold about you under the Data Protection Act 1998.
+        A small fee will be payable. If you would like a copy of the information held on you please email us this
+        request using our Contact Us information.
+    </p>
+    <p>
+        If you believe that any information we are holding on you is incorrect or incomplete,
+        please write to or email us as soon as possible, at the above address.
+        We will promptly correct any information found to be incorrect.
+    </p>
+    <h2><a name="list"></a>List of cookies we collect</h2>
+    <p>The table below lists the cookies we collect and what information they store.</p>
+    <table class="data-table data-table-definition-list">
+        <thead>
+        <tr>
+            <th>Cookie Name</th>
+            <th>Cookie Description</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>FORM_KEY</th>
+                <td>Stores randomly generated key used to prevent forged requests.</td>
+            </tr>
+            <tr>
+                <th>PHPSESSID</th>
+                <td>Your session ID on the server.</td>
+            </tr>
+            <tr>
+                <th>GUEST-VIEW</th>
+                <td>Allows guests to view and edit their orders.</td>
+            </tr>
+            <tr>
+                <th>PERSISTENT_SHOPPING_CART</th>
+                <td>A link to information about your cart and viewing history, if you have asked for this.</td>
+            </tr>
+            <tr>
+                <th>STF</th>
+                <td>Information on products you have emailed to friends.</td>
+            </tr>
+            <tr>
+                <th>STORE</th>
+                <td>The store view or language you have selected.</td>
+            </tr>
+            <tr>
+                <th>USER_ALLOWED_SAVE_COOKIE</th>
+                <td>Indicates whether a customer allowed to use cookies.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-SESSID</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE-SECTION-INVALIDATION</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-TIMEOUT</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>SECTION-DATA-IDS</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>PRIVATE_CONTENT_VERSION</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>X-MAGENTO-VARY</th>
+                <td>Facilitates caching of content on the server to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-FILE-VERSION</th>
+                <td>Facilitates translation of content to other languages.</td>
+            </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-STORAGE</th>
+                <td>Facilitates translation of content to other languages.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>About us</title>
+      <identifier>about-us</identifier>
+      <content_heading>About us</content_heading>
+      <content><![CDATA[<div class="about-info cms-content">
+      <p class="cms-content-important">With more than 230 stores spanning 43 states and growing, Luma is a nationally recognized active wear manufacturer and retailer. We’re passionate about active lifestyles – and it goes way beyond apparel.</p>
+
+      <p>At Luma, wellness is a way of life. We don’t believe age, gender or past actions define you, only your ambition and desire for wholeness... today.</p>
+
+      <p>We differentiate ourselves through a combination of unique designs and styles merged with unequaled standards of quality and authenticity. Our founders have deep roots in yoga and health communities and our selections serve amateur practitioners and professional athletes alike.</p>
+
+      <ul style="list-style: none; margin-top: 20px; padding: 0;">
+          <li><a href="{{store url="contact"}}">Contact Luma</a></li>
+          <li><a href="{{store url="customer-service"}}">Customer Service</a></li>
+          <li><a href="{{store url="privacy-policy"}}">Luma Privacy Policy</a></li>
+          <li><a href="{{store url=""}}">Shop Luma</a></li>
+      </ul>
+  </div>
+]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Customer Service</title>
+      <identifier>customer-service</identifier>
+      <content_heading>Customer Service</content_heading>
+      <content><![CDATA[<div class="customer-service cms-content">
+  <div class="cms-content-important">
+      <h2>Luma Delivery and Returns</h2>
+      <p>We hope you love shopping with Luma. Here are our delivery and returns policies to help make sure we meet your expectations. <a href="{{store url="contact"}}">Contact Us.</a></p>
+  </div>
+
+  <h2>Shipping and Delivery</h2>
+  <p>Shipping and Delivery is the charge for internet order processing, item selection, packaging, transport and handling. We don’t guarantee delivery times, but we do our best to provide accurate estimates.</p>
+
+  <p>Deliveries occur only on weekdays. Shipping and Delivery charges are subject to change and are determined when you order. Estimated delivery time assumes orders are placed before 12:00 noon (PST). Orders you place with Luma late on Friday or on Saturday will not be processed until Monday. Charges may be added to orders with Priority, Overnight and International shipping if we try unsuccessfully to deliver your order more than once.</p>
+
+  <p>Delivery addresses in Alaska, Hawaii, Puerto Rico, and Guam should add an additional $5.00 charge for standard Shipping & Delivery. Orders arrive in 7 to 9 business days when ordered before 12:00 noon (PST).</p>
+
+  <div class="table-wrapper">
+      <table>
+          <caption>Shipping and Delivery</caption>
+          <thead>
+              <tr>
+                  <th><strong>Merchandise total *</strong></th>
+                  <th><strong>STANDARD</strong><br />5&mdash;7 day shipping **</th>
+                  <th><strong>PRIORITY</strong><br />2&mdash;3 day shipping **</th>
+                  <th><strong>OVERNIGHT</strong><br />Next business day **</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <th>Up to $200</th>
+                  <td>$16</td>
+                  <td>$26</td>
+                  <td>$33</td>
+              </tr>
+              <tr>
+                  <th>$200.01&mdash;500.00</th>
+                  <td>$21</td>
+                  <td>$31</td>
+                  <td>$38</td>
+              </tr>
+              <tr>
+                  <th>$500.01&mdash;1000.00</th>
+                  <td>$29</td>
+                  <td>$39</td>
+                  <td>$46</td>
+              </tr>
+              <tr>
+                  <th>Over $1000.00</th>
+                  <td>$34</td>
+                  <td>$44</td>
+                  <td>$51</td>
+              </tr>
+          </tbody>
+      </table>
+  </div>
+
+  <p>
+      <small>*before tax and additional charges</small><br />
+      <small>**after processing if ordered by 12:00 noon PST</small>
+  </p>
+
+  <h2 style="margin-top: 40px;">Returns and Replacements</h2>
+  <p>We want you to be completely happy with your Luma order. If for any reason you are not satisfied, we will gladly accept your timely return of unworn, unwashed, or defective merchandise. Used merchandise cannot be returned unless defective. Returned merchandise should include the vendor packaging and tags and be in the same condition as when it was received. A pickup and/or restock fee may apply. Merchandise must be returned within 30 days of receipt of merchandise.</p>
+
+  <h3>Returning Gifts</h3>
+  <p>When returning a gift, a Luma Gift Card will be issued to the gift recipient for the amount of the returned merchandise. The card can be used for purchases from any Luma store, and online. In compliance with Federal law, for gifts valued at more than $2,000.00, the recipient will receive a check rather than an Luma Gift Card.</p>
+
+  <h3>Returning Merchandise by Mail</h3>
+  <p>On the back of the packing slip enclosed with your Luma order, please note the reason(s) for return and whether you wish to  exchange the item(s) or receive a credit/refund (depending on the original form of  payment).</p>
+  <p>Enclose the return section of the packing slip with your item(s). Please use one  of the return labels provided on the front of your packing slip to ensure proper  return address and credit information. Restricted items must be returned using  ground transportation.</p>
+  <p>Please allow 10 to 14 days for Luma to process your return.</p>
+</div>
+]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Daily Deals</title>
+      <identifier>daily-deals</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="extend-container">	
+	<div class="product-extend">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Daily Deals" type_show="loadmore" type_listing="deals" display_countdown="1" under_price="100" type_filter="categories" field_tabs="" category_select="" category_tabs="97,98,99" order_by="created_at" order_dir="ASC" limitation="4"}}
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Under $100</title>
+      <identifier>under-price</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="extend-container">
+	<div class="product-extend">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Under Price $100" type_show="loadmore" type_listing="under" display_countdown="0" under_price="100" type_filter="categories" field_tabs="" category_select="" category_tabs="97,98,99" order_by="ordered_qty" order_dir="ASC" limitation="4"}}
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>New Arrivals</title>
+      <identifier>new-arrivals</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="extend-container">
+	<div class="product-extend">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="New Arrivals" type_show="loadmore" type_listing="all" display_countdown="0" under_price="100" type_filter="categories" field_tabs="" category_select="" category_tabs="97,98,99" order_by="created_at" order_dir="ASC" limitation="4"}}
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 1</title>
+      <identifier>demo-01</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-1">
+	<div class="slidershow">
+		<div class="owl-carousel owl-theme">
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-1/item-1.jpg"}}" alt="Slide Image" width="1920" height="640" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-1/item-2.jpg"}}" alt="Slide Image" width="1920" height="640" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-1/item-3.jpg"}}" alt="Slide Image" width="1920" height="640" /></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="art-search">
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+		</div>
+	</div>
+	
+	<div class="container clearfix">
+		<div class="product-container">
+			<div class="title-group">
+				<h3>Top Sale On This Week</h3>
+				<h2>Best Sellers</h2>
+			</div>
+			
+			<div class="products wrapper products-grid clearfix">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid.phtml" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="8"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="deal-container clearfix">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<div class="deal-block">
+						<div class="deal-title">
+							<h2>Deal Of The Day</h2>
+						</div>
+						
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal.phtml" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+					</div>
+				</div>
+				
+				<div class="col-lg-3">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-3.jpg"}}" alt="Banner Image"  width="270" height="490" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-product product-container">
+			<div class="title-group">
+				<h3>Top New On This Week</h3>
+				<h2>New Arrivals</h2>
+			</div>
+			
+			<div class="slider-product-1">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="6"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="banner-group">
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-1.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+				
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-2.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="categories-container">
+		<div class="container">
+			<div class="title-group">
+				<h3>Top Featured Collections</h3>
+				<h2>Shop by Categories</h2>
+			</div>
+			
+			{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default.phtml" select_category="164,165,103,166,272,105" limitation="5"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Top Quality Partner</h3>
+			<h2>Shop by Brands</h2>
+		</div>
+		
+		<div class="brand-slider">
+			<div class="brand-content">
+				<div class="owl-carousel owl-theme">
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+</div>
+]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 2</title>
+      <identifier>demo-02</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-2">
+	<div class="container">
+		<div class="offset-xl-3">
+			<div class="slidershow">
+				<div class="owl-carousel owl-theme">
+					<div class="item">
+						<a href="#"><img src="{{media url="wysiwyg/slideshow/home-2/item-1.jpg"}}" alt="Slide Image" width="870" height="477" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img src="{{media url="wysiwyg/slideshow/home-2/item-2.jpg"}}" alt="Slide Image" width="870" height="477" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img src="{{media url="wysiwyg/slideshow/home-2/item-3.jpg"}}" alt="Slide Image" width="870" height="477" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="services-content">
+			<div class="row">
+				<div class="col-lg-3 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Free Shipping</h3>
+							<p>On all orders over $99.00</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Money Guarantee</h3>
+							<p>7 days money back guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Safe Shopping</h3>
+							<p>Safe shopping guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Online Support</h3>
+							<p>We support 24/24h on day</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="hightlight-block clearfix">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<div class="deal-block">
+						<div class="deal-title">
+							<h2>Deal Of The Day</h2>
+						</div>
+						
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal.phtml" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+					</div>
+				</div>
+				
+				<div class="col-lg-3">
+					<div class="sidebar slider-product-list">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="9" row_items="3"}}
+					</div>
+				</div>
+			</div>
+			
+			<div class="tab-product-banner clearfix">
+				<div class="banner-tab">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-4.jpg"}}" alt="Slide Image" width="280" height="560" /></a>
+					</div>
+				</div>
+				
+				<div class="tab-products slider-product">
+					{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="236,237,238,239" limitation="5"}}
+				</div>
+			</div>
+			
+			<div class="tab-product-banner clearfix">
+				<div class="banner-tab">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-5.jpg"}}" alt="Slide Image" width="280" height="560" /></a>
+					</div>
+				</div>
+				
+				<div class="tab-products slider-product">
+					{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="167,168,169,170" limitation="5"}}
+				</div>
+			</div>
+			
+			<div class="tab-product-banner clearfix">
+				<div class="banner-tab">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-6.jpg"}}" alt="Slide Image" width="280" height="560" /></a>
+					</div>
+				</div>
+				
+				<div class="tab-products slider-product">
+					{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="172,173,174,175" limitation="5"}}
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="categories-container">
+		<div class="container">
+			<div class="title-group">
+				<h3>Top Featured Collections</h3>
+				<h2>Shop by Categories</h2>
+			</div>
+			
+			{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default.phtml" select_category="164,165,103,166,272,105" limitation="5"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Top Quality Partner</h3>
+			<h2>Shop by Brands</h2>
+		</div>
+		
+		<div class="brand-slider">
+			<div class="brand-content">
+				<div class="owl-carousel owl-theme">
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[<move element="page.messages" destination="after.body.start" before="-"/>]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 3</title>
+      <identifier>demo-03</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-3">
+	<div class="container">
+		<div class="slidershow">
+			<div class="owl-carousel owl-theme">
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-3/item-1.jpg"}}" alt="Slide Image" width="1170" height="555" /></a>
+				</div>
+				
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-3/item-2.jpg"}}" alt="Slide Image" width="1170" height="555" /></a>
+				</div>
+				
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-3/item-3.jpg"}}" alt="Slide Image" width="1170" height="555" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="services-content">
+			<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Free Shipping</h3>
+							<p>On all orders over $99.00</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Money Guarantee</h3>
+							<p>7 days money back guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Safe Shopping</h3>
+							<p>Safe shopping guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Online Support</h3>
+							<p>We support 24/24h on day</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="featured_categories">
+		<div class="container">
+			<div class="title-group">
+				<h3>Top Featured Collections</h3>
+				<h2>Shop by Categories</h2>
+			</div>
+			
+			<div class="slider-categories">
+				{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default-slider.phtml" select_category="164,165,103,166,272,105" limitation="0"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="deal-list-products">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<div class="deal-grid-slider">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-deal-slider.phtml" title_module="Deal Of The Day" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+					</div>
+					
+				</div>
+				
+				<div class="col-lg-4">
+					<div class="sidebar slider-product-list list-slider-1">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="New Arrivals" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="8" row_items="4"}}
+					</div>
+				</div>
+				
+				<div class="col-lg-4">
+					<div class="sidebar slider-product-list list-slider-2">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="8" row_items="4"}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="banner-group">
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-1.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+				
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-2.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-product product-container">
+			<div class="title-group">
+				<h3>Top New On This Week</h3>
+				<h2>Featured Products</h2>
+			</div>
+			
+			<div class="slider-product-1">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="featured_products" select_category="" product_limitation="6"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="clients-full">
+		<div class="container">
+			<div class="clients-slider">
+				<div class="client-main">
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Johnny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">David Land</div>
+							<div class="job-client">Marketing - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Jonny Johanson</div>
+							<div class="job-client">Designer - Magentech</div>
+							<div class="description-client">
+								Aliquip ex eacommodo consequat lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, quis nostrud exer citation ullamco laboris nisi ut.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Anna Johanson</div>
+							<div class="job-client">Tester - Magentech</div>
+							<div class="description-client">
+								Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Micheal Echo</div>
+							<div class="job-client">Founder - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Danny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Walker Dump</div>
+							<div class="job-client">HCNS - Magentech</div>
+							<div class="description-client">
+								Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco .Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="client-image">
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-3.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-4.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-5.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+	<div class="brand-container">
+		<div class="container">
+			<div class="brand-slider">
+				<div class="brand-content">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 4</title>
+      <identifier>demo-04</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-4">
+	<div class="slidershow">
+		<div class="owl-carousel owl-theme">
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-4/item-1.jpg"}}" alt="Slide Image" width="1920" height="720" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-4/item-2.jpg"}}" alt="Slide Image" width="1920" height="720" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-4/item-3.jpg"}}" alt="Slide Image" width="1920" height="720" /></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-categories">
+			{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default-slider.phtml" select_category="164,165,103,166,272,105,97" limitation="0"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="art-search">
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="tab-listing-products">
+			<div class="title-group">
+				<h3>Top Sale On This Week</h3>
+				<h2>Best Sellers</h2>
+			</div>
+			
+			{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" order_by="ordered_qty" type_show="loadmore" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="164,103,115,165,180" limitation="8"}}
+		</div>
+	</div>
+
+	<div class="thr-banner clearfix">
+		<div class="banner-image">
+			<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-7.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+		</div>
+
+		<div class="banner-image">
+			<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-8.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+		</div>
+		
+		<div class="banner-image">
+			<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-9.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+		</div>
+	</div>
+	
+	<div class="group-product-slider">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<div class="sidebar slider-product-list list-slider-1">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="New Arrivals" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="8" row_items="4"}}
+					</div>
+				</div>
+				
+				<div class="col-lg-4">
+					<div class="sidebar slider-product-list list-slider-2">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="8" row_items="4"}}
+					</div>
+				</div>
+				
+				<div class="col-lg-4">
+					<div class="sidebar slider-product-list list-slider-3">
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Sale Off" display_countdown="0" product_source="special_products" select_category="" product_limitation="8" row_items="4"}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="brand-full">
+		<div class="container">
+			<div class="brand-slider">
+				<div class="brand-content">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+	<div class="services-full clearfix">
+		<div class="container">
+			<div class="services-content">
+				<div class="row">
+					<div class="col-lg-3 col-sm-6">
+						<div class="service-item">
+							<div class="image-service">
+								<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+							</div>
+							
+							<div class="info-service">
+								<h3>Free Shipping</h3>
+								<p>On all orders over $99.00</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-3 col-sm-6">
+						<div class="service-item">
+							<div class="image-service">
+								<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+							</div>
+							
+							<div class="info-service">
+								<h3>Money Guarantee</h3>
+								<p>7 days money back guarantee</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-3 col-sm-6">
+						<div class="service-item">
+							<div class="image-service">
+								<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+							</div>
+							
+							<div class="info-service">
+								<h3>Safe Shopping</h3>
+								<p>Safe shopping guarantee</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-3 col-sm-6">
+						<div class="service-item">
+							<div class="image-service">
+								<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+							</div>
+							
+							<div class="info-service">
+								<h3>Online Support</h3>
+								<p>We support 24/24h on day</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 5</title>
+      <identifier>demo-05</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-5">
+	<div class="container">
+		<div class="slidershow">
+			<div class="owl-carousel owl-theme">
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-5/item-1.jpg"}}" alt="Slide Image" width="1650" height="600" /></a>
+				</div>
+				
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-5/item-2.jpg"}}" alt="Slide Image" width="1650" height="600" /></a>
+				</div>
+				
+				<div class="item">
+					<a href="#"><img src="{{media url="wysiwyg/slideshow/home-5/item-3.jpg"}}" alt="Slide Image" width="1650" height="600" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="services-home">
+			<div class="row">
+				<div class="col-xl-3 col-lg-6 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Free Shipping</h3>
+							<p>On all orders over $99.00</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Money Guarantee</h3>
+							<p>7 days money back guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Safe Shopping</h3>
+							<p>Safe shopping guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Online Support</h3>
+							<p>We support 24/24h on day</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="art-search">
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-product product-container deal-block-container">
+			<div class="title-group">
+				<h3>Special Offer Limited time</h3>
+				<h2>Deal Of The Day</h2>
+			</div>
+			
+			<div class="deal-block">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal2.phtml" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="banner-three">
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-10.jpg"}}" alt="Banner Image" width="550" height="340" /></a>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-11.jpg"}}" alt="Banner Image" width="550" height="340" /></a>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-12.jpg"}}" alt="Banner Image" width="550" height="340" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-product product-container">
+			<div class="title-group">
+				<h3>Top New On This Week</h3>
+				<h2>New Arrivals</h2>
+			</div>
+			
+			<div class="slider-product-1">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="6"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="full-categories">
+		<div class="featured_categories">
+			<div class="container">
+				<div class="title-group">
+					<h3>Top Featured Collections</h3>
+					<h2>Shop by Categories</h2>
+				</div>
+				
+				<div class="slider-categories">
+					{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default-slider.phtml" select_category="164,165,103,166,272,105" limitation="5"}}
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Top Quality Partner</h3>
+			<h2>Shop by Brands</h2>
+		</div>
+		
+		<div class="brand-slider">
+			<div class="brand-content">
+				<div class="owl-carousel owl-theme">
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-7.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+	<div class="clients-full">
+		<div class="container">
+			<div class="clients-slider">
+				<div class="client-main">
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Johnny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">David Land</div>
+							<div class="job-client">Marketing - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Jonny Johanson</div>
+							<div class="job-client">Designer - Magentech</div>
+							<div class="description-client">
+								Aliquip ex eacommodo consequat lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, quis nostrud exer citation ullamco laboris nisi ut.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Anna Johanson</div>
+							<div class="job-client">Tester - Magentech</div>
+							<div class="description-client">
+								Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Micheal Echo</div>
+							<div class="job-client">Founder - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Danny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Walker Dump</div>
+							<div class="job-client">HCNS - Magentech</div>
+							<div class="description-client">
+								Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco .Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="client-image">
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-3.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-4.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-5.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 6</title>
+      <identifier>demo-06</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-6">
+	<div class="slidershow">
+		<div class="owl-carousel owl-theme">
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-6/item-1.jpg"}}" alt="Slide Image" width="1920" height="880" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-6/item-2.jpg"}}" alt="Slide Image" width="1920" height="880" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#"><img src="{{media url="wysiwyg/slideshow/home-6/item-3.jpg"}}" alt="Slide Image" width="1920" height="880" /></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="services-content">
+			<div class="row">
+				<div class="col-xl-3 col-lg-6 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Free Shipping</h3>
+							<p>On all orders over $99.00</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Money Guarantee</h3>
+							<p>7 days money back guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Safe Shopping</h3>
+							<p>Safe shopping guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-3 col-lg-6 col-sm-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Online Support</h3>
+							<p>We support 24/24h on day</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="categories-full">
+		<div class="item">
+			<div class="item-inner">
+				<div class="image-cat">
+					<img src="{{media url="wysiwyg/categories/cate-1.jpg"}}" alt="Category Image" width="383" height="500" />
+				</div>
+				
+				<div class="info-cat">
+					<h2>BODY PARTS</h2>
+					<p>(184 products)</p>
+				</div>
+				
+				<div class="button-cat">
+					<a href="#">Discover Now</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="item">
+			<div class="item-inner">
+				<div class="image-cat">
+					<img src="{{media url="wysiwyg/categories/cate-2.jpg"}}" alt="Category Image" width="383" height="500" />
+				</div>
+				
+				<div class="info-cat">
+					<h2>Lights & Lighting</h2>
+					<p>(76 products)</p>
+				</div>
+				
+				<div class="button-cat">
+					<a href="#">Discover Now</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="item">
+			<div class="item-inner">
+				<div class="image-cat">
+					<img src="{{media url="wysiwyg/categories/cate-3.jpg"}}" alt="Category Image" width="383" height="500" />
+				</div>
+				
+				<div class="info-cat">
+					<h2>REPAIR PARTS</h2>
+					<p>(260 products)</p>
+				</div>
+				
+				<div class="button-cat">
+					<a href="#">Discover Now</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="item">
+			<div class="item-inner">
+				<div class="image-cat">
+					<img src="{{media url="wysiwyg/categories/cate-4.jpg"}}" alt="Category Image" width="383" height="500" />
+				</div>
+				
+				<div class="info-cat">
+					<h2>WHEELS AND TIRES</h2>
+					<p>(97 products)</p>
+				</div>
+				
+				<div class="button-cat">
+					<a href="#">Discover Now</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="item">
+			<div class="item-inner">
+				<div class="image-cat">
+					<img src="{{media url="wysiwyg/categories/cate-5.jpg"}}" alt="Category Image" width="383" height="500" />
+				</div>
+				
+				<div class="info-cat">
+					<h2>PERFORMANCE PARTS</h2>
+					<p>(136 products)</p>
+				</div>
+				
+				<div class="button-cat">
+					<a href="#">Discover Now</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="arr-listing-full">
+		<div class="container">
+			<div class="art-search">
+				{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+			</div>
+			
+			<div class="group-products">
+				<div class="title-group">
+					<h3>Top New On This Week</h3>
+					<h2>New Arrivals</h2>
+				</div>
+				
+				<div class="products-grid">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-group.phtml" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="5"}}
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slider-deal-container">
+		<div class="container">
+			<div class="deal-block">
+				<div class="deal-title">
+					<h2>Deal Of The Day</h2>
+				</div>
+				
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal3.phtml" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="listing-tabs-full">
+		<div class="container">
+			<div class="tab-listing-products">
+				<div class="title-group">
+					<h3>Top Popular On This Week</h3>
+					<h2>Featured Products</h2>
+				</div>
+				
+				<div class="slider-product">
+					{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" order_by="ordered_qty" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="164,103,115,165,180" limitation="8"}}
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="banner-full">
+		<div class="banner-three">
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-13.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-14.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="banner-image">
+					<a title="Banner Image" href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-15.jpg"}}" alt="Banner Image" width="640" height="400" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+	<div class="brand-container">
+		<div class="container">
+			<div class="brand-slider">
+				<div class="brand-content">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 7</title>
+      <identifier>demo-07</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-7">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-9 col-lg-12">
+				<div class="slidershow">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#"><img src="{{media url="wysiwyg/slideshow/home-7/item-1.jpg"}}" alt="Slide Image" width="870" height="600" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img src="{{media url="wysiwyg/slideshow/home-7/item-2.jpg"}}" alt="Slide Image" width="870" height="600" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img src="{{media url="wysiwyg/slideshow/home-7/item-3.jpg"}}" alt="Slide Image" width="870" height="600" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-xl-3 col-lg-12">
+				<div class="deal-grid-slider">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-deal-slider.phtml" title_module="Daily Deal" display_countdown="1" product_source="special_products" select_category="" product_limitation="5"}}
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="services-content">
+			<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Free Shipping</h3>
+							<p>On all orders over $99.00</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Money Guarantee</h3>
+							<p>7 days money back guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Safe Shopping</h3>
+							<p>Safe shopping guarantee</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="service-item">
+						<div class="image-service">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon" width="70" height="70" />
+						</div>
+						
+						<div class="info-service">
+							<h3>Online Support</h3>
+							<p>We support 24/24h on day</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="art-search">
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="tab-listing-products">
+			<div class="title-group">
+				<h3>Top Popular On This Week</h3>
+				<h2>Featured Products</h2>
+			</div>
+			
+			<div class="slider-product">
+				{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" order_by="ordered_qty" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="164,103,115,165,180" limitation="8"}}
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="banner-group">
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-1.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+				
+				<div class="col-lg-6 col-md-6">
+					<div class="banner-image">
+						<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/banner/item-2.jpg"}}" alt="Banner Image" width="570" height="280" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="slider-product product-container">
+			<div class="title-group">
+				<h3>Top New On This Week</h3>
+				<h2>New Arrivals</h2>
+			</div>
+			
+			<div class="slider-product-1">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="6"}}
+			</div>
+		</div>
+	</div>
+	
+	<div class="clients-full">
+		<div class="container">
+			<div class="clients-slider">
+				<div class="client-main">
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Johnny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">David Land</div>
+							<div class="job-client">Marketing - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Jonny Johanson</div>
+							<div class="job-client">Designer - Magentech</div>
+							<div class="description-client">
+								Aliquip ex eacommodo consequat lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, quis nostrud exer citation ullamco laboris nisi ut.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Anna Johanson</div>
+							<div class="job-client">Tester - Magentech</div>
+							<div class="description-client">
+								Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Micheal Echo</div>
+							<div class="job-client">Founder - Magentech</div>
+							<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Danny Walker</div>
+							<div class="job-client">CEO - Magentech</div>
+							<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="info-content">
+							<div class="name-client">Walker Dump</div>
+							<div class="job-client">HCNS - Magentech</div>
+							<div class="description-client">
+								Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco .Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboris nisi ut aliquip ex eacommodo consequat.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="client-image">
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-3.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-4.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-5.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+		
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	
+	<div class="brand-container">
+		<div class="container">
+			<div class="brand-slider">
+				<div class="brand-content">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+						
+						<div class="item">
+							<a href="#"><img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 8</title>
+      <identifier>demo-08</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div data-content-type="html" data-appearance="default" data-element="main">&lt;div class="home-page-8 hidden-new-label"&gt;
+	&lt;div class="slidershow-art-search"&gt;
+		&lt;div class="owl-carousel owl-theme"&gt;
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/slideshow/home-8/item-1.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;&lt;/a&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/slideshow/home-8/item-2.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;&lt;/a&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/slideshow/home-8/item-3.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+		&lt;div class="container container-search"&gt;
+			&lt;div class="art-search"&gt;
+				{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	&lt;/div&gt;
+	
+	&lt;div class="container"&gt;
+		&lt;div class="services-content"&gt;
+			&lt;div class="sv-list"&gt;
+				&lt;div class="sv-item"&gt;
+					&lt;div class="service-item"&gt;
+						&lt;div class="image-service"&gt;
+							&lt;img src="{{media url=wysiwyg/icon/icon-1.png}}" alt="Icon" width="70" height="70" /&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="info-service"&gt;
+							&lt;h3&gt;Free Shipping&lt;/h3&gt;
+							&lt;p&gt;On all orders over $99.00&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="sv-item"&gt;
+					&lt;div class="service-item"&gt;
+						&lt;div class="image-service"&gt;
+							&lt;img src="{{media url=wysiwyg/icon/icon-2.png}}" alt="Icon" width="70" height="70" /&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="info-service"&gt;
+							&lt;h3&gt;Money Guarantee&lt;/h3&gt;
+							&lt;p&gt;7 days money back guarantee&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="sv-item"&gt;
+					&lt;div class="service-item"&gt;
+						&lt;div class="image-service"&gt;
+							&lt;img src="{{media url=wysiwyg/icon/icon-3.png}}" alt="Icon" width="70" height="70" /&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="info-service"&gt;
+							&lt;h3&gt;Safe Shopping&lt;/h3&gt;
+							&lt;p&gt;Safe shopping guarantee&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="sv-item"&gt;
+					&lt;div class="service-item"&gt;
+						&lt;div class="image-service"&gt;
+							&lt;img src="{{media url=wysiwyg/icon/icon-4.png}}" alt="Icon" width="70" height="70" /&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="info-service"&gt;
+							&lt;h3&gt;Online Support&lt;/h3&gt;
+							&lt;p&gt;We support 24/24h on day&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="sv-item"&gt;
+					&lt;div class="service-item"&gt;
+						&lt;div class="image-service"&gt;
+							&lt;img src="{{media url=wysiwyg/icon/icon-5.png}}" alt="Icon" width="70" height="70" /&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="info-service"&gt;
+							&lt;h3&gt;Payment Method&lt;/h3&gt;
+							&lt;p&gt;Pay in many different ways&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;div class="home-sidebar-content" style="background-color: #eeeeee;"&gt;
+		&lt;div class="container"&gt;
+			&lt;div class="home-main"&gt;
+				&lt;div class="block-main block-categories"&gt;
+					&lt;div class="title-block"&gt;Top Categories&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;div class="slider-categories"&gt;
+							{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default-slider.phtml" select_category="164,272,165,166,103,105" limitation="0"}}
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block-main block-deal"&gt;
+					&lt;div class="title-block"&gt;Deal Of The Day&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal4.phtml" display_countdown="0" row_items="2" product_source="countdown_products" date_to="12/9/2023" select_category="" product_limitation="6"}}
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="banner-image banner-full"&gt;
+					&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-16.jpg}}" alt="Banner Image" width="1350" height="200" /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block-main"&gt;
+					&lt;div class="title-block"&gt;Wheels &amp; Tires&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;div class="banner-slider-product"&gt;
+							&lt;div class="banner-product"&gt;
+								&lt;div class="banner-image"&gt;
+									&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-17.jpg}}" alt="Banner Image" width="266" height="463" /&gt;&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="slider-product-grid"&gt;
+								{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="164" product_limitation="6"}}
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block-main"&gt;
+					&lt;div class="title-block"&gt;Replacement Parts&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;div class="banner-slider-product"&gt;
+							&lt;div class="banner-product"&gt;
+								&lt;div class="banner-image"&gt;
+									&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-18.jpg}}" alt="Banner Image" width="266" height="463" /&gt;&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="slider-product-grid"&gt;
+								{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="235" product_limitation="6"}}
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block-main"&gt;
+					&lt;div class="title-block"&gt;Smart Devices&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;div class="banner-slider-product"&gt;
+							&lt;div class="banner-product"&gt;
+								&lt;div class="banner-image"&gt;
+									&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-19.jpg}}" alt="Banner Image" width="266" height="463" /&gt;&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="slider-product-grid"&gt;
+								{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="165" product_limitation="6"}}
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block-main block-brand"&gt;
+					&lt;div class="title-block"&gt;Featured Brand&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;div class="owl-carousel owl-theme"&gt;
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-1.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-2.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-3.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-4.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-5.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-6.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-3.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+							
+							&lt;div class="item"&gt;
+								&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-4.jpg}}" alt="Brand Image" width="194" height="148" /&gt;&lt;/a&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="sidebar home-sidebar"&gt;
+				&lt;div class="slider-product-list list-slider-1"&gt;
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="12" row_items="4"}}
+				&lt;/div&gt;
+				
+				&lt;div class="banner-image"&gt;
+					&lt;a href="#"&gt;&lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/sidebar-home.jpg}}" alt="Banner Image" width="300" height="450" /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				
+				{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="3" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-sidebar.phtml"}}
+				
+				&lt;div class="client-sidebar"&gt;
+					&lt;div class="owl-carousel owl-theme"&gt;
+						&lt;div class="client-item"&gt;
+							&lt;div class="client-des"&gt;
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							&lt;/div&gt;
+							
+							&lt;div class="client-infomation"&gt;
+								&lt;div class="client-img"&gt;
+									&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-1.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+								&lt;/div&gt;
+								
+								&lt;div class="client-name"&gt;Johny Walker&lt;/div&gt;
+								
+								&lt;div class="client-job"&gt;CEO Magentech - Themeforest&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="client-item"&gt;
+							&lt;div class="client-des"&gt;
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							&lt;/div&gt;
+							
+							&lt;div class="client-infomation"&gt;
+								&lt;div class="client-img"&gt;
+									&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-2.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+								&lt;/div&gt;
+								
+								&lt;div class="client-name"&gt;Adam Walker&lt;/div&gt;
+								
+								&lt;div class="client-job"&gt;MKT Magentech - Themeforest&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						
+						&lt;div class="client-item"&gt;
+							&lt;div class="client-des"&gt;
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							&lt;/div&gt;
+							
+							&lt;div class="client-infomation"&gt;
+								&lt;div class="client-img"&gt;
+									&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-3.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+								&lt;/div&gt;
+								
+								&lt;div class="client-name"&gt;Johny Johanson&lt;/div&gt;
+								
+								&lt;div class="client-job"&gt;Dev Magentech - Themeforest&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="block block-tags"&gt;
+					&lt;div class="block-title"&gt;
+						&lt;strong&gt;Product Tags&lt;/strong&gt;
+					&lt;/div&gt;
+					
+					&lt;div class="block-content"&gt;
+						&lt;ul&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Wheels&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Sale Off&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Interior&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;New Arrivals&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Land Rover&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Lexus&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Brake Parts&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Ford&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Accessories&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href="#"&gt;Body Kit&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 9</title>
+      <identifier>demo-09</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div class="home-page-9">
+	<div class="block-full-width">
+		<div class="top-categories">
+			<ul>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Body Parts">
+							<img src="{{media url="wysiwyg/icon/1.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Body Parts</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Electronics">
+							<img src="{{media url="wysiwyg/icon/2.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Electronics</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Lightings">
+							<img src="{{media url="wysiwyg/icon/3.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Lightings</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="performance">
+							<img src="{{media url="wysiwyg/icon/4.png"}}" alt="Icon" width="39" height="39" />
+							<h3>performance</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="repair Parts">
+							<img src="{{media url="wysiwyg/icon/5.png"}}" alt="Icon" width="50" height="39" />
+							<h3>repair Parts</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Suspensions">
+							<img src="{{media url="wysiwyg/icon/6.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Suspensions</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Accessories">
+							<img src="{{media url="wysiwyg/icon/7.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Accessories</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Wheels & Tires">
+							<img src="{{media url="wysiwyg/icon/8.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Wheels & Tires</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Tools & Garage">
+							<img src="{{media url="wysiwyg/icon/9.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Tools & Garage</h3>
+						</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="inner">
+						<a href="#" title="Engine & Drivetrain">
+							<img src="{{media url="wysiwyg/icon/10.png"}}" alt="Icon" width="39" height="39" />
+							<h3>Engine & Drivetrain</h3>
+						</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="slidershow-banner">
+			<div class="slidershow">
+				<div class="owl-carousel owl-theme">
+					<div class="item">
+						<a href="#">
+							<img src="{{media url="wysiwyg/slideshow/home-9/item-1.jpg"}}" alt="Slide Image" width="870" height="500" />
+						</a>
+					</div>
+
+					<div class="item">
+						<a href="#">
+							<img src="{{media url="wysiwyg/slideshow/home-9/item-2.jpg"}}" alt="Slide Image" width="870" height="500" />
+						</a>
+					</div>
+
+					<div class="item">
+						<a href="#">
+							<img src="{{media url="wysiwyg/slideshow/home-9/item-3.jpg"}}" alt="Slide Image" width="870" height="500" />
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="banner-lf">
+				<div class="banner-image">
+					<a href="#">
+						<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-20.jpg"}}" alt="Banner Image"  width="320" height="500" />
+					</a>
+				</div>
+			</div>
+			<div class="banner-rt">
+				<div class="banner-image" style="margin-bottom:10px;">
+					<a href="#">
+						<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-21.jpg"}}" alt="Banner Image"  width="560" height="245" />
+					</a>
+				</div>
+				<div class="banner-image">
+					<a href="#">
+						<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-22.jpg"}}" alt="Banner Image"  width="560" height="245" />
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div class="container">
+		<div class="categories-container">
+			<div class="title-group">
+				<h3>Top Featured Collections</h3>
+				<h2>Shop by Categories</h2>
+			</div>
+					{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default.phtml" select_category="164,165,103,166,272,105" limitation="5"}}
+		</div>
+		<div class="art-search">
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+		</div>
+		<div class="row">
+			<div class="col-lg-4">
+				<div class="deal-block">
+					<div class="title-group">
+						<h3>Sale off limited time</h3>
+						<h2>Daily Deals</h2>
+					</div>
+
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal.phtml" display_countdown="1" product_source="special_products" select_category="" product_limitation="3"}}
+				</div>
+			</div>
+
+			<div class="col-lg-8">
+				<div class="slider-product product-container">
+					<div class="title-group">
+						<h3>Top Sale On This Week</h3>
+						<h2>Bestsellers</h2>
+					</div>
+
+					<div class="slider-product-1">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="6"}}
+					</div>
+				</div>
+				<div class="banner-image">
+					<a href="#">
+						<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-23.jpg"}}" alt="Banner Image"  width="850" height="167" />
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="group-products-slider">
+		<div class="container">
+			<div class="box-products">
+				<div class="banner-product">
+					<div class="banner-image">
+						<a href="#">
+							<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-24.jpg"}}" alt="Banner Image"  width="320" height="500" />
+						</a>
+					</div>
+				</div>
+				<div class="slider-product product-container">
+					<div class="block-title">
+						<strong>Wheels & Tires</strong>
+					</div>
+
+					<div class="slider-product-2">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="164" product_limitation="6"}}
+					</div>
+				</div>
+			</div>
+			<div class="box-products">
+				<div class="banner-product">
+					<div class="banner-image">
+						<a href="#">
+							<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-25.jpg"}}" alt="Banner Image"  width="320" height="500" />
+						</a>
+					</div>
+				</div>
+				<div class="slider-product product-container">
+					<div class="block-title">
+						<strong>Replacement Parts</strong>
+					</div>
+
+					<div class="slider-product-3">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="103" product_limitation="6"}}
+					</div>
+				</div>
+			</div>
+			<div class="box-products">
+				<div class="banner-product">
+					<div class="banner-image">
+						<a href="#">
+							<img class="mark-lazy" src="{{media url="wysiwyg/banner/item-26.jpg"}}" alt="Banner Image"  width="320" height="500" />
+						</a>
+					</div>
+				</div>
+				<div class="slider-product product-container">
+					<div class="block-title">
+						<strong>Smart Devices</strong>
+					</div>
+
+					<div class="slider-product-4">
+				{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="165" product_limitation="6"}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="brand-container">
+		<div class="container">
+			<div class="brand-slider">
+				<div class="title-group">
+					<h3>Top Quality Partner</h3>
+					<h2>Shop by Brands</h2>
+				</div>
+				<div class="brand-content">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-3.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-4.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-5.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-6.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-1.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+
+						<div class="item">
+							<a href="#">
+								<img class="mark-lazy" src="{{media url="wysiwyg/brand/item-2.jpg"}}" alt="Brand Image" width="194" height="148" />
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="title-group">
+			<h3>Our Recent Posts</h3>
+			<h2>Latest Blogs</h2>
+		</div>
+
+		<div class="slider-post">
+			{{widget type="Magefan\Blog\Block\Widget\Recent" number_of_posts="5" category_id="0" tag_id="0" author_id="0" custom_template="Magefan_Blog::widget/slider-post.phtml"}}
+		</div>
+	</div>
+	<div class="clients-full">
+		<div class="container">
+			<div class="clients-slider">
+				<div class="client-main">
+					<div class="item">
+						<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Aliquip ex eacommodo consequat lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, quis nostrud exer citation ullamco laboris nisi ut.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex eacommodo consequat.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Consectetur adipiscing elit, lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exer citation ullamco ut enim ad minim veniam, laboris nisi ut aliquip ex eacommodo consequat.
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="description-client">
+								Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco .Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboris nisi ut aliquip ex eacommodo consequat.
+						</div>
+					</div>
+				</div>
+
+				<div class="client-image">
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-3.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-4.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-5.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-1.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+
+					<div class="item">
+						<div class="image-content">
+							<img src="{{media url="wysiwyg/client/item-2.jpg"}}" alt="Client Image" width="86" height="86" />
+						</div>
+
+					</div>
+				</div>
+				<div class="client-info">
+					<div class="item">
+						<div class="name-client">Anna Johanson</div>
+						<div class="job-client">Tester - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Anna Johanson</div>
+						<div class="job-client">Tester - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Anna Johanson</div>
+						<div class="job-client">Tester - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Micheal Echo</div>
+						<div class="job-client">Founder - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Danny Walker</div>
+						<div class="job-client">CEO - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Johnny Walker</div>
+						<div class="job-client">CEO - Magentech</div>
+					</div>
+					<div class="item">
+						<div class="name-client">Walker Dump</div>
+						<div class="job-client">HCNS - Magentech</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 10</title>
+      <identifier>demo-10</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div data-content-type="html" data-appearance="default" data-element="main">&lt;div class="home-page-10"&gt;
+	&lt;div class="slidershow"&gt;
+		&lt;div class="owl-carousel owl-theme"&gt;
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;
+					&lt;img src="{{media url=wysiwyg/slideshow/home-10/item-1.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;
+					&lt;img src="{{media url=wysiwyg/slideshow/home-10/item-2.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+
+			&lt;div class="item"&gt;
+				&lt;a href="#"&gt;
+					&lt;img src="{{media url=wysiwyg/slideshow/home-10/item-3.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div style="background:#f7f7f7"&gt;
+		&lt;div class="container"&gt;
+			&lt;div class="art-search"&gt;
+			{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+			&lt;/div&gt;
+			&lt;div class="block-home brand-slider"&gt;
+				&lt;div class="title-group"&gt;
+					&lt;h2&gt;Shop by Brands&lt;/h2&gt;
+				&lt;/div&gt;
+				&lt;div class="owl-carousel owl-theme"&gt;
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-8.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-9.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-10.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-11.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-12.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-13.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-14.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-15.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-16.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-17.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+					&lt;div class="item"&gt;
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-8.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+
+						&lt;a title="Brand" href="#"&gt;
+							&lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-9.jpg}}" alt="Brand" width="250" height="150" /&gt;
+						&lt;/a&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;div class="container"&gt;
+&lt;div class="block-home deal-block stagepadding"&gt;
+{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal5.phtml" title_module="Deal Of The Day" display_countdown="0"  product_source="countdown_products" date_to="12/9/2023" select_category="" product_limitation="6"}}
+&lt;/div&gt;
+&lt;div class="block-home row no-gutters"&gt;
+	&lt;div class="col-sm-4"&gt;
+		&lt;div class="banner-image"&gt;
+			&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/banner/item-27.jpg}}" alt="Image" width="430" height="270" /&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="col-sm-4"&gt;
+		&lt;div class="banner-image"&gt;
+			&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/banner/item-28.jpg}}" alt="Image" width="430" height="270" /&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="col-sm-4"&gt;
+		&lt;div class="banner-image"&gt;
+			&lt;a href="#"&gt;&lt;img src="{{media url=wysiwyg/banner/item-29.jpg}}" alt="Image" width="430" height="270" /&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home tab-listing-products"&gt;
+	&lt;div class="title-group"&gt;
+		&lt;h2&gt;Best Sellers&lt;/h2&gt;
+	&lt;/div&gt;
+			
+	{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="" order_by="ordered_qty" type_show="loadmore" type_listing="all" display_countdown="0" type_filter="categories" category_tabs="164,103,115,165,180" limitation="8"}}
+&lt;/div&gt;
+&lt;div class="block-home"&gt;
+	&lt;div class="row"&gt;
+		&lt;div class="col-lg-6 col-xs-12"&gt;
+			&lt;div class="block-banner"&gt;
+				&lt;img src="{{media url=wysiwyg/banner/banner30.jpg}}" alt="" width="570" height="363"&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class="col-lg-6 col-xs-12"&gt;
+			&lt;div class="block-aboutus"&gt;
+				&lt;h2 class="block-title"&gt;Welcome to Autostore&lt;/h2&gt;
+				&lt;h3&gt;Autostore is the leading US auto parts distributor.&lt;/h3&gt;
+				&lt;p class="descriptions"&gt;Since its founding we become an integral part of the city, advancing our mission
+of the providing access to compassionate care to our communities. today patient
+find care that combines world-class medincine with compassion.&lt;/p&gt;
+				&lt;ul class="list-item"&gt;
+							&lt;li&gt;
+								&lt;a href="#"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua&lt;/a&gt;
+							&lt;/li&gt;
+							&lt;li&gt;
+								&lt;a href="#"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua&lt;/a&gt;
+							&lt;/li&gt;
+							&lt;li&gt;
+								&lt;a href="#"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua&lt;/a&gt;
+							&lt;/li&gt;
+						&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home block-counter"&gt;
+	&lt;div class="counter-number"&gt;
+		&lt;div class="row"&gt;
+			&lt;div class="col-lg-3 col-md-6"&gt;
+				&lt;div class="item"&gt;
+					&lt;div class="icon"&gt;&lt;img src="{{media url=wysiwyg/icon/icon-10.png}}" alt="" width="64" height="64"&gt;&lt;/div&gt;
+					&lt;div class="info-team"&gt;
+						&lt;span class="count"&gt;1436&lt;/span&gt;
+						&lt;p&gt;Types of Autostore&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="col-lg-3 col-md-6"&gt;
+				&lt;div class="item"&gt;
+					&lt;div class="icon"&gt;&lt;img src="{{media url=wysiwyg/icon/icon-11.png}}" alt="" width="64" height="64"&gt;&lt;/div&gt;
+					&lt;span class="count"&gt;29&lt;/span&gt;
+					&lt;p&gt;Distributor&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="col-lg-3 col-md-6"&gt;
+				&lt;div class="item"&gt;
+					&lt;div class="icon"&gt;&lt;img src="{{media url=wysiwyg/icon/icon-12.png}}" alt="" width="64" height="64"&gt;&lt;/div&gt;
+					&lt;span class="count"&gt;1758&lt;/span&gt;
+					&lt;p&gt;Trust Customers&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="col-lg-3 col-md-6"&gt;
+				&lt;div class="item"&gt;
+					&lt;div class="icon"&gt;&lt;img src="{{media url=wysiwyg/icon/icon-13.png}}" alt="" width="64" height="64"&gt;&lt;/div&gt;
+					&lt;span class="count"&gt;16&lt;/span&gt;
+					&lt;p&gt;Autostore Certificate&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;	
+&lt;div class="block-home block-ourteam stagepadding" style="background:#f7f7f7;padding: 80px 0;"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="title-group"&gt;
+			&lt;h2&gt;Meet Our Team&lt;/h2&gt;
+		&lt;/div&gt;
+               &lt;div class="block-content"&gt;
+		&lt;div class="owl-carousel owl-theme"&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="image"&gt;
+					&lt;img src="{{media url=wysiwyg/client/item-8.jpg}}" alt="" width="370" height="250"&gt;
+				&lt;/div&gt;
+				&lt;div class="info-team"&gt;
+					&lt;h3 class="name"&gt;Michael Jackson&lt;/h3&gt;
+					&lt;p class="job"&gt;CEO - Founder&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="image"&gt;
+					&lt;img src="{{media url=wysiwyg/client/item-7.jpg}}" alt="" width="370" height="250"&gt;
+				&lt;/div&gt;
+				&lt;div class="info-team"&gt;
+					&lt;h3 class="name"&gt;Linonel Messy&lt;/h3&gt;
+					&lt;p class="job"&gt;Specialist - Saler&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="image"&gt;
+					&lt;img src="{{media url=wysiwyg/client/item-6.jpg}}" alt="" width="370" height="250"&gt;
+				&lt;/div&gt;
+				&lt;div class="info-team"&gt;
+					&lt;h3 class="name"&gt;Aslies Simpson&lt;/h3&gt;
+					&lt;p class="job"&gt;Specialist - Saler&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+&lt;div class="item"&gt;
+				&lt;div class="image"&gt;
+					&lt;img src="{{media url=wysiwyg/client/item-8.jpg}}" alt="" width="370" height="250"&gt;
+				&lt;/div&gt;
+				&lt;div class="info-team"&gt;
+					&lt;h3 class="name"&gt;Aslies Simpson&lt;/h3&gt;
+					&lt;p class="job"&gt;Specialist - Saler&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home block-clients"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="title-group"&gt;
+			&lt;h2&gt;Meet Our Team&lt;/h2&gt;
+		&lt;/div&gt;
+		&lt;div class="block-content owl-carousel owl-theme"&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="info-client"&gt;
+					&lt;div class="client-description"&gt;All Perfect!!! I have three sites with Magento, this theme is the best!!! Excellent support, advice theme installation package, sorry for English, are Italian but I had no problem!! Thank you !&lt;/div&gt;
+					&lt;div class="info-detail"&gt;
+						&lt;h3&gt;Jenifer Natpes&lt;/h3&gt;
+						&lt;p&gt;Los Angeles&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class="image-client"&gt;
+					&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-1.jpg}}" alt="Client" width="52" height="52" /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="info-client"&gt;
+					&lt;div class="client-description"&gt;All Perfect!!! I have three sites with Magento, this theme is the best!!! Excellent support, advice theme installation package, sorry for English, are Italian but I had no problem!! Thank you !&lt;/div&gt;
+					&lt;div class="info-detail"&gt;
+						&lt;h3&gt;Thomas Bunlders&lt;/h3&gt;
+						&lt;p&gt;New York&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class="image-client"&gt;
+					&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-2.jpg}}" alt="Client" width="52" height="52" /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="item"&gt;
+				&lt;div class="info-client"&gt;
+					&lt;div class="client-description"&gt;All Perfect!!! I have three sites with Magento, this theme is the best!!! Excellent support, advice theme installation package, sorry for English, are Italian but I had no problem!! Thank you !&lt;/div&gt;
+					&lt;div class="info-detail"&gt;
+						&lt;h3&gt;Aliquam Tellus&lt;/h3&gt;
+						&lt;p&gt;Vitae Ornare Mauris&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class="image-client"&gt;
+					&lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-3.jpg}}" alt="Client" width="52" height="52" /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;	
+&lt;div class="block-home block-gallery"&gt;
+&lt;div class="title-group"&gt;
+&lt;h2&gt;Gallery of AutoStore&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="owl-carousel owl-theme"&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/1_1.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/1.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/2_2.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/2.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/3_3.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/3.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/4_4.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/4.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/5_5.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/5.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/6_6.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/6.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="button-viewall"&gt;&lt;a href="#"&gt;View All&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 11</title>
+      <identifier>demo-11</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div data-content-type="html" data-appearance="default" data-element="main">&lt;div class="home-page-11"&gt;
+  &lt;div class="slidershow"&gt;
+    &lt;div class="owl-carousel owl-theme"&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-10/item-1.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-10/item-2.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-10/item-3.jpg}}" alt="Slide Image" width="1920" height="750" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="art-search"&gt;
+      {{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}
+    &lt;/div&gt;
+    &lt;div class="block-service"&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-md-3"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon-image"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon_1.png}}" alt="" /&gt;
+              &lt;h2&gt;01&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;Free Shipping .&lt;/h3&gt;
+              &lt;p&gt;Free worldwide shipping on all area on order above $100&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon-image"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon_2.png}}" alt="" /&gt;
+              &lt;h2&gt;02&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;7 Days Easy Return .&lt;/h3&gt;
+              &lt;p&gt;Product any fault within 07 days for an immediately exchange.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon-image"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon_3.png}}" alt="" /&gt;
+              &lt;h2&gt;03&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;24/7 Friendly Support .&lt;/h3&gt;
+              &lt;p&gt;Our support team always ready for you to 7 days a week&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon-image"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon_4.png}}" alt="" /&gt;
+              &lt;h2&gt;04&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;Payment Secure .&lt;/h3&gt;
+              &lt;p&gt;We ensure 100% secure payment with Online Payment&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="block-policyshop-v11"&gt;
+    &lt;div class="container"&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-lg col-md-4 col-sm-6"&gt;
+          &lt;div class="item"&gt;
+            &lt;h3&gt;Today's Deal&lt;/h3&gt;
+            &lt;p&gt;On Happening Deal&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg col-md-4 col-sm-6"&gt;
+          &lt;div class="item"&gt;
+            &lt;h3&gt;Next 3 days&lt;/h3&gt;
+            &lt;p&gt;Deal Shocking upto 40%&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg col-md-4 col-sm-6"&gt;
+          &lt;div class="item"&gt;
+            &lt;h3&gt;next 5 days&lt;/h3&gt;
+            &lt;p&gt;Coupon deals upto $200&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg col-md-4 col-sm-6"&gt;
+          &lt;div class="item"&gt;
+            &lt;h3&gt;Weekend Deals&lt;/h3&gt;
+            &lt;p&gt;Only from $50.00&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg col-md-4 col-sm-6"&gt;
+          &lt;div class="item"&gt;
+            &lt;h3&gt;Next Week&lt;/h3&gt;
+            &lt;p&gt;Discount upto 70%&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class="deal-grid-slider"&gt;
+  &lt;div class="container"&gt;
+&lt;div class="title"&gt;
+&lt;h2&gt;Black Friday Ad Deals&lt;/h2&gt;
+&lt;p class="available"&gt;&lt;strong class="theme-color"&gt;Available Now.&lt;/strong&gt; Shop 100s of great deals today.&lt;/p&gt;
+&lt;p&gt;Shop Black Friday Ad Deals in every hour&lt;/p&gt;
+&lt;/div&gt;
+{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider1.phtml" title_module="" display_countdown="1" product_source="special_products" select_category="" product_limitation="7"}}
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="block-banner"&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-md-3 col-6"&gt;
+          &lt;div class="banner-image"&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-30.jpg}}" alt="Image" width="285" height="140" /&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3 col-6"&gt;
+          &lt;div class="banner-image"&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-31.jpg}}" alt="Image" width="285" height="140" /&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3 col-6"&gt;
+          &lt;div class="banner-image"&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-32.jpg}}" alt="Image" width="285" height="140" /&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-3 col-6"&gt;
+          &lt;div class="banner-image"&gt;
+            &lt;a href="#"&gt;
+              &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-33.jpg}}" alt="Image" width="285" height="140" /&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class="banner-image" style="margin-bottom:60px;"&gt; 
+        &lt;a href="#"&gt;
+          &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-34.jpg}}" alt="Image" width="1170" height="140" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+    &lt;div class="filter-subcat color-1"&gt; 
+      {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-subcat.phtml" title_module="wheels &amp; tires" display_countdown="0"  product_source="lastest_products" date_to="" select_category="98" blockbrand="brand-product" blockbanner="banner-product-1" product_limitation="4"}} &lt;/div&gt;
+    &lt;div class="filter-subcat color-2"&gt;
+      {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-subcat.phtml" title_module="Smart Devices" display_countdown="0"  product_source="lastest_products" date_to="" select_category="165" blockbrand="brand-product" blockbanner="banner-product-2" product_limitation="4"}}
+    &lt;/div&gt;
+    &lt;div class="filter-subcat color-3"&gt;
+      {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-subcat.phtml" title_module="Cart Parts" display_countdown="0"  product_source="lastest_products" date_to="" select_category="101" blockbrand="brand-product" blockbanner="banner-product-3" product_limitation="4"}}
+    &lt;/div&gt;
+    &lt;div class="filter-subcat color-4"&gt;
+      {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-subcat.phtml" title_module="Accessories" display_countdown="0"  product_source="lastest_products" date_to="" select_category="100" blockbrand="brand-product" blockbanner="banner-product-4" product_limitation="4"}}
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class="container"&gt;
+&lt;div class="block-banner-bt" style="margin-bottom:60px;"&gt;
+&lt;div class="row"&gt;
+  &lt;div class="col-lg- col-sm-6"&gt;
+    &lt;div class="banner-image first-item"&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-35.jpg}}" alt="Image" width="575" height="240" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="col-lg-6 col-sm-6"&gt;
+    &lt;div class="banner-image"&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-36.jpg}}" alt="Image" width="575" height="240" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="group-product-slider"&gt;
+		&lt;div class="container"&gt;
+			&lt;div class="row"&gt;
+				&lt;div class="col-lg-4"&gt;
+					&lt;div class="sidebar slider-product-list list-slider-1"&gt;
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="New Arrivals" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="8" row_items="4"}}
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="col-lg-4"&gt;
+					&lt;div class="sidebar slider-product-list list-slider-2"&gt;
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="8" row_items="4"}}
+					&lt;/div&gt;
+				&lt;/div&gt;
+				
+				&lt;div class="col-lg-4"&gt;
+					&lt;div class="sidebar slider-product-list list-slider-3"&gt;
+						{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::block-list-slider.phtml" title_module="Sale Off" display_countdown="0" product_source="special_products" select_category="" product_limitation="8" row_items="4"}}
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;div class="container"&gt;
+&lt;div class="block-aboutus"&gt;
+&lt;h3&gt;AutoStore Car Parts&lt;/h3&gt;
+&lt;p&gt;We pride ourselves not only in providing quality automobiles and auto parts at prices you can afford, but also maintaining the highest level of customer service throughout the
+shopping process. Buy from us once and you will see why our number of loyal customers continues to grow.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Auto Parts &amp; Equipments Magento 2 Theme - Autostore - Layout 12</title>
+      <identifier>demo-12</identifier>
+      <content_heading></content_heading>
+      <content><![CDATA[<div data-content-type="html" data-appearance="default" data-element="main">&lt;div class="home-page-12"&gt;
+&lt;div class="art-search"&gt;
+  &lt;div class="container"&gt;{{block class="Sm\AttributesSearch\Block\AttributesSearch" template="Sm_AttributesSearch::default.phtml"}}&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="slidershow"&gt;
+    &lt;div class="owl-carousel owl-theme"&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-12/item-1.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-12/item-2.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/slideshow/home-12/item-3.jpg}}" alt="Slide Image" width="1920" height="640" /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="thr-banner clearfix"&gt;
+    &lt;div class="banner-image"&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-7.jpg}}" alt="Banner Image" width="640" height="400" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="banner-image"&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-8.jpg}}" alt="Banner Image" width="640" height="400" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="banner-image"&gt;
+      &lt;a href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/banner/item-9.jpg}}" alt="Banner Image" width="640" height="400" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="block-home slider-categories"&gt;
+      &lt;div class="title-group"&gt;
+        &lt;h2&gt;Shop by Categories&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class="block-content"&gt;{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default-slider.phtml" select_category="164,165,103,166,272,105,97,98" limitation="0"}}&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="block-home slider-product product-topselling product-container"&gt;
+      &lt;div class="title-group"&gt;
+        &lt;h2&gt;Top Selling Products&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class="slider-product-1"&gt;
+        {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="6"}}
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home block-deal slider-product"&gt;
+{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::slider-deal6.phtml" title_module="Flash SALE" display_countdown="0"  product_source="countdown_products" date_to="12/9/2023" select_category="" link_href ="#" product_limitation="6"}}
+&lt;/div&gt;
+
+&lt;div class="block-home slider-product product-container"&gt;
+      &lt;div class="title-group"&gt;
+        &lt;h2&gt;New Arrivals&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class="slider-product-2"&gt;
+        {{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" display_countdown="0" product_source="lastest_products" select_category="" product_limitation="6"}}
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+ &lt;div class="block-home block-clients-full"&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="clients-slider"&gt;
+&lt;div class="title-group"&gt;
+        &lt;h2&gt;What Clients Say?&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class="owl-carousel owl-theme"&gt;
+        &lt;div class="item"&gt;
+          &lt;div class="image-content"&gt;
+            &lt;img src="{{media url=wysiwyg/client/item-1.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+          &lt;/div&gt;
+          &lt;div class="info-content"&gt;
+            &lt;div class="description-client"&gt;All Perfect!!! I have three sites with Magento, this theme is the best. Excellent support, advice theme installation package, sorry for English,
+are Italian but I had no problem. Thank you ! &lt;/div&gt;
+&lt;div class="name-client"&gt;Johnny Walker&lt;/div&gt;
+            &lt;div class="job-client"&gt;CEO - Magentech&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="item"&gt;
+          &lt;div class="image-content"&gt;
+            &lt;img src="{{media url=wysiwyg/client/item-2.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+          &lt;/div&gt;
+          &lt;div class="info-content"&gt;
+            &lt;div class="description-client"&gt; All Perfect!!! I have three sites with Magento, this theme is the best. Excellent support, advice theme installation package, sorry for English,
+are Italian but I had no problem. Thank you ! &lt;/div&gt;
+ &lt;div class="name-client"&gt;David Land&lt;/div&gt;
+            &lt;div class="job-client"&gt;Marketing - Magentech&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="item"&gt;
+          &lt;div class="image-content"&gt;
+            &lt;img src="{{media url=wysiwyg/client/item-3.jpg}}" alt="Client Image" width="86" height="86" /&gt;
+          &lt;/div&gt;
+          &lt;div class="info-content"&gt;
+            &lt;div class="description-client"&gt;All Perfect!!! I have three sites with Magento, this theme is the best. Excellent support, advice theme installation package, sorry for English,
+are Italian but I had no problem. Thank you !&lt;/div&gt;
+            &lt;div class="name-client"&gt;Jonny Johanson&lt;/div&gt;
+            &lt;div class="job-client"&gt;Designer - Magentech&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;div class="block-home brand-slider"&gt;
+  &lt;div class="container"&gt;
+  &lt;div class="title-group"&gt;
+    &lt;h2&gt;Shop by Brands&lt;/h2&gt;
+  &lt;/div&gt;
+ &lt;div class="block-content"&gt;
+  &lt;div class="owl-carousel owl-theme"&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-8.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-9.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-10.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-11.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-12.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-13.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-14.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-15.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-16.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-17.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-8.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+      &lt;a title="Brand" href="#"&gt;
+        &lt;img class="mark-lazy" src="{{media url=wysiwyg/brand/item-9.jpg}}" alt="Brand" width="250" height="150" /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home block-customer"&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="title-group"&gt;
+    &lt;h2&gt;our experts&lt;/h2&gt;
+  &lt;/div&gt;
+     &lt;div class="owl-carousel owl-theme"&gt;
+      &lt;div class="item"&gt;
+        &lt;a class="img-customer" href="#"&gt;
+          &lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-10.jpg}}" alt="Image"&gt;
+        &lt;/a&gt;
+        &lt;h3 class="name"&gt;
+          &lt;a href="#"&gt;Josefine Madsen&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a class="img-customer" href="#"&gt;
+          &lt;img class="mark-lazy" src="{{media url=wysiwyg/client/item-11.jpg}}" alt="Image"&gt;
+        &lt;/a&gt;
+        &lt;h3 class="name"&gt;
+          &lt;a href="#"&gt;Amanda Cerny&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a class="img-customer" href="#"&gt;
+          &lt;img  src="{{media url=wysiwyg/client/item-12.jpg}}" alt="Image"&gt;
+        &lt;/a&gt;
+        &lt;h3 class="name"&gt;
+          &lt;a href="#"&gt;Ivanka Trump&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a class="img-customer" href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/client/item-13.jpg}}" alt="Image"&gt;
+        &lt;/a&gt;
+        &lt;h3 class="name"&gt;
+          &lt;a href="#"&gt;Josefine Madsen&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class="item"&gt;
+        &lt;a class="img-customer" href="#"&gt;
+          &lt;img src="{{media url=wysiwyg/client/item-10.jpg}}" alt="Image"&gt;
+        &lt;/a&gt;
+        &lt;h3 class="name"&gt;
+          &lt;a href="#"&gt;Josefine Madsen&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="block-home block-gallery"&gt;
+&lt;div class="owl-carousel owl-theme"&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/1_1.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/1.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/2_2.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/2.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/3_3.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/3.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/4_4.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/4.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/5_5.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/5.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="item"&gt;&lt;a class="fancybox" href="{{media url=wysiwyg/gallery/6_6.jpg}}"&gt;&lt;img src="{{media url=wysiwyg/gallery/6.jpg}}" alt="" width="410" height="280"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="container"&gt;
+    &lt;div class="block-service"&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-lg-3 col-sm-6 col-xs-12"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon-67.png}}" alt="" /&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;{{trans "Free Shipping"}}&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg-3 col-sm-6 col-xs-12"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon-68.png}}" alt="" /&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;{{trans "Money Back Guarantee"}}&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg-3 col-sm-6 col-xs-12"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon-69.png}}" alt="" /&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;{{trans "24/7 Help Center"}}&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="col-lg-3 col-sm-6 col-xs-12"&gt;
+          &lt;div class="item"&gt;
+            &lt;div class="icon"&gt;
+              &lt;img src="{{media url=wysiwyg/icon/icon-70.png}}" alt="" /&gt;
+            &lt;/div&gt;
+            &lt;div class="info"&gt;
+              &lt;h3&gt;{{trans "Gift Promotion"}}&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+</div>]]></content>
+      <is_active>1</is_active>
+      <page_layout>1column</page_layout>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <store_id>0</store_id>
+    </cms_item>
+  </pages>
+</root>
