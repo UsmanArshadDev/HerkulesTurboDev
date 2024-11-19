@@ -1,4 +1,4 @@
-"Your email address","Ihre E-Mail Adresse"
+"Your email address","Ihre E-Mail Adresse2"
 "Search products...","Produkte suchen..."
 "All Categories","Alle Kategorien"
 "OK","OK"
@@ -32,5 +32,21 @@
 "The shipping method is missing. Select the shipping method and try again.","Die Versandart ist nicht vorhanden. Bitte wählen Sie eine Versandart und versuchen Sie es erneut."
 "items","Artikel"
 "item","Artikel"
+"Customer Login","Kunden-Login",module,Magento_User
+"Customer Login","Kunden-Login2",module,Magento_Customer
+"Show Password","Passwort anzeigen"
+"Create New Customer Account","Neues Kundenkonto anlegen"
+"Create New Customer Account","Neues Kundenkonto anlegen2",module,Magento_User
+"Create New Customer Account","Neues Kundenkonto anlegen3",module,Magento_Customer
+"Allow remote shopping assistance","Unterstützung beim Einkaufen aus der Ferne zulassen"
+"This website is excluded from customer's group.","Diese Website ist von der Kundengruppe ausgeschlossen."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Kontoanmeldung war falsch oder Ihr Konto ist vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut."
+"Incorrect CAPTCHA","Falsches CAPTCHA"
+"My Account","Mein Konto"
+"Newsletter","Newsletter"
+"Your Dashboard","Ihr Dashboard"
+"",""
+"",""
+"",""
 "",""
 "",""
