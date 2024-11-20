@@ -18,6 +18,7 @@ $footerStyle = $_config->getThemeLayout('footer_style');
     <div class="footer-container footer-style-1">
         <div class="footer-wrapper">
             <?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('footer-1-content')->toHtml(); ?>
+            <?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('footer-en-content')->toHtml(); ?>
 
             <div class="footer-bottom">
                 <div class="container">
