@@ -9,9 +9,9 @@
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="sidebar.main">
-            <block class="Magento\Cms\Block\Block" name="detail-extended-de" after="-">
+            <block class="Magento\Cms\Block\Block" name="detail-extended-en" after="-">
                 <arguments>
-                    <argument name="block_id" xsi:type="string">detail-extended-de</argument>
+                    <argument name="block_id" xsi:type="string">detail-extended-en</argument>
                 </arguments>
             </block>
         </referenceContainer>
