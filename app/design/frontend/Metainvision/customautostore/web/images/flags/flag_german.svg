@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 5 3">
-	<desc>Flag of Germany</desc>
-	<rect id="black_stripe" width="5" height="3" y="0" x="0" fill="#000"/>
-	<rect id="red_stripe" width="5" height="2" y="1" x="0" fill="#D00"/>
-	<rect id="gold_stripe" width="5" height="1" y="2" x="0" fill="#FFCE00"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="19px" viewBox="0 0 31 19" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(80.000001%,13.333334%,16.078432%);fill-opacity:1;" d="M 0.0390625 0 L 30.960938 0 L 30.960938 18.972656 L 0.0390625 18.972656 Z M 0.0390625 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0.0390625 0 L 30.960938 0 L 30.960938 6.359375 L 0.0390625 6.359375 Z M 0.0390625 0 "/>
+<path style="fill-rule:evenodd;fill:rgb(94.901961%,79.215688%,18.82353%);fill-opacity:1;stroke-width:0.499;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(94.901961%,79.215688%,18.82353%);stroke-opacity:1;stroke-miterlimit:2.613;" d="M 0.256116 87.629179 L 216.241885 87.629179 L 216.241885 130.543008 L 0.256116 130.543008 Z M 0.256116 87.629179 " transform="matrix(0.143166,0,0,0.145277,0.00239531,0)"/>
+</g>
 </svg>
